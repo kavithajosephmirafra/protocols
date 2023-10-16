@@ -1,4 +1,4 @@
-# new
+# protocol
 sample green
 free
 
